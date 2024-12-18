@@ -1,0 +1,16 @@
+/* Style de base pour la liste des photos */
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  li {
+    list-style-type: none;
+    margin: 5px;
+  }
+  
